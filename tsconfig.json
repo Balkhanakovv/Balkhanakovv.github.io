@@ -1,0 +1,11 @@
+{
+     "compilerOptions": {
+         "target": "es2015",
+         "noEmitOnError": true,
+         "outFile": "js/app.js"
+     },
+
+     "exclude": [
+          "node_modules"
+     ]
+ }
